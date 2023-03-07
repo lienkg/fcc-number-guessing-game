@@ -1,2 +1,2 @@
 # number-guessing-game
-freeCodeCamp Project (Relational Database Certification)
+This Number Guessing Game was built as part of the freeCodeCamp Relational Database Certification.
